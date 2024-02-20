@@ -1,0 +1,15 @@
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisukOtImena\bin\Debug\net8.0\SpisukOtImena.exe
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisukOtImena\bin\Debug\net8.0\SpisukOtImena.deps.json
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisukOtImena\bin\Debug\net8.0\SpisukOtImena.runtimeconfig.json
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisukOtImena\bin\Debug\net8.0\SpisukOtImena.dll
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisukOtImena\bin\Debug\net8.0\SpisukOtImena.pdb
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisukOtImena\obj\Debug\net8.0\SpisukOtImena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisukOtImena\obj\Debug\net8.0\SpisukOtImena.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisukOtImena\obj\Debug\net8.0\SpisukOtImena.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisukOtImena\obj\Debug\net8.0\SpisukOtImena.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisukOtImena\obj\Debug\net8.0\SpisukOtImena.sourcelink.json
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisukOtImena\obj\Debug\net8.0\SpisukOtImena.dll
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisukOtImena\obj\Debug\net8.0\refint\SpisukOtImena.dll
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisukOtImena\obj\Debug\net8.0\SpisukOtImena.pdb
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisukOtImena\obj\Debug\net8.0\SpisukOtImena.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisukOtImena\obj\Debug\net8.0\ref\SpisukOtImena.dll

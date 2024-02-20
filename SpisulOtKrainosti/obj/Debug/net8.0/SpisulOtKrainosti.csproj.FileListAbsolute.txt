@@ -1,0 +1,15 @@
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisulOtKrainosti\bin\Debug\net8.0\SpisulOtKrainosti.exe
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisulOtKrainosti\bin\Debug\net8.0\SpisulOtKrainosti.deps.json
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisulOtKrainosti\bin\Debug\net8.0\SpisulOtKrainosti.runtimeconfig.json
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisulOtKrainosti\bin\Debug\net8.0\SpisulOtKrainosti.dll
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisulOtKrainosti\bin\Debug\net8.0\SpisulOtKrainosti.pdb
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisulOtKrainosti\obj\Debug\net8.0\SpisulOtKrainosti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisulOtKrainosti\obj\Debug\net8.0\SpisulOtKrainosti.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisulOtKrainosti\obj\Debug\net8.0\SpisulOtKrainosti.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisulOtKrainosti\obj\Debug\net8.0\SpisulOtKrainosti.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisulOtKrainosti\obj\Debug\net8.0\SpisulOtKrainosti.sourcelink.json
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisulOtKrainosti\obj\Debug\net8.0\SpisulOtKrainosti.dll
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisulOtKrainosti\obj\Debug\net8.0\refint\SpisulOtKrainosti.dll
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisulOtKrainosti\obj\Debug\net8.0\SpisulOtKrainosti.pdb
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisulOtKrainosti\obj\Debug\net8.0\SpisulOtKrainosti.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\SpisulOtKrainosti\obj\Debug\net8.0\ref\SpisulOtKrainosti.dll

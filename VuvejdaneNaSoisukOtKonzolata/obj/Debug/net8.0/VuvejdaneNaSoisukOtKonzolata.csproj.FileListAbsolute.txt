@@ -1,0 +1,15 @@
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\VuvejdaneNaSoisukOtKonzolata\bin\Debug\net8.0\VuvejdaneNaSoisukOtKonzolata.exe
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\VuvejdaneNaSoisukOtKonzolata\bin\Debug\net8.0\VuvejdaneNaSoisukOtKonzolata.deps.json
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\VuvejdaneNaSoisukOtKonzolata\bin\Debug\net8.0\VuvejdaneNaSoisukOtKonzolata.runtimeconfig.json
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\VuvejdaneNaSoisukOtKonzolata\bin\Debug\net8.0\VuvejdaneNaSoisukOtKonzolata.dll
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\VuvejdaneNaSoisukOtKonzolata\bin\Debug\net8.0\VuvejdaneNaSoisukOtKonzolata.pdb
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\VuvejdaneNaSoisukOtKonzolata\obj\Debug\net8.0\VuvejdaneNaSoisukOtKonzolata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\VuvejdaneNaSoisukOtKonzolata\obj\Debug\net8.0\VuvejdaneNaSoisukOtKonzolata.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\VuvejdaneNaSoisukOtKonzolata\obj\Debug\net8.0\VuvejdaneNaSoisukOtKonzolata.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\VuvejdaneNaSoisukOtKonzolata\obj\Debug\net8.0\VuvejdaneNaSoisukOtKonzolata.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\VuvejdaneNaSoisukOtKonzolata\obj\Debug\net8.0\VuvejdaneNaSoisukOtKonzolata.sourcelink.json
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\VuvejdaneNaSoisukOtKonzolata\obj\Debug\net8.0\VuvejdaneNaSoisukOtKonzolata.dll
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\VuvejdaneNaSoisukOtKonzolata\obj\Debug\net8.0\refint\VuvejdaneNaSoisukOtKonzolata.dll
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\VuvejdaneNaSoisukOtKonzolata\obj\Debug\net8.0\VuvejdaneNaSoisukOtKonzolata.pdb
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\VuvejdaneNaSoisukOtKonzolata\obj\Debug\net8.0\VuvejdaneNaSoisukOtKonzolata.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\Domashna-14i13\Domashna\VuvejdaneNaSoisukOtKonzolata\obj\Debug\net8.0\ref\VuvejdaneNaSoisukOtKonzolata.dll
